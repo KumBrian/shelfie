@@ -35,3 +35,7 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+.dart_tool/
+build/
+android/app/build/
+ios/Flutter/Generated.xcconfig
